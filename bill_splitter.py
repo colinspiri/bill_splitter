@@ -1,6 +1,6 @@
 
 # Set up variables
-people = ["Colin", "Charlie", "Kayden", "Lucca", "Imran"]
+people = ["Colin", "Charlie", "Lucca", "Imran"]
 specialty_amounts = {}
 for name in people:
     specialty_amounts[name] = 0
